@@ -15,21 +15,21 @@ Check out my live projects [here](https://khanhsteffen.de/#/)
 
 ### Things I work with
 
-<img src="images/typescript.svg" alt="typescript" align="left" width="35" style="margin-right:10px"/>
-<img src="images/javascript.png" alt="javascript" align="left" width="35" style="margin-right:10px"/>
-<img src="images/html.svg" alt="html" align="left" width="35" style="margin-right:10px"/>
-<img src="images/css.png" alt="css" align="left" width="35" style="margin-right:10px"/>
-<img src="images/sass.png" alt="sass" align="left" width="35" style="margin-right:10px"/>
-<img src="images/react.svg" alt="react" align="left" width="35" style="margin-right:10px"/>
-<img src="images/nodejs.svg" alt="nodejs" align="left" width="35" style="margin-right:10px"/>
-<img src="images/graphql.svg" alt="graphql" align="left" width="35" style="margin-right:10px"/>
-<img src="images/mongodb.png" alt="mongodb" align="left" width="35" style="margin-right:10px"/>
-<img src="images/dart.png" alt="dart" align="left" width="35" style="margin-right:10px"/>
-<img src="images/flutter.svg" alt="flutter" align="left" width="35" style="margin-right:10px"/>
-<img src="images/csharp.png" alt="csharp" align="left" width="35" style="margin-right:10px"/>
-<img src="images/unity.png" alt="unity" align="left" width="35" style="margin-right:10px"/>
-<img src="images/java.png" alt="java" align="left" width="35" style="margin-right:10px"/>
-<img src="images/python.svg" alt="python" align="left" width="35" style="margin-right:10px"/>
+<img src="images/typescript.svg" alt="typescript" align="left" width="25" />
+<img src="images/javascript.png" alt="javascript" align="left" width="25" />
+<img src="images/html.svg" alt="html" align="left" width="25" />
+<img src="images/css.png" alt="css" align="left" width="25" />
+<img src="images/sass.png" alt="sass" align="left" width="25" />
+<img src="images/react.svg" alt="react" align="left" width="25" />
+<img src="images/nodejs.svg" alt="nodejs" align="left" width="25" />
+<img src="images/graphql.svg" alt="graphql" align="left" width="25" />
+<img src="images/mongodb.png" alt="mongodb" align="left" width="25" />
+<img src="images/dart.png" alt="dart" align="left" width="25" />
+<img src="images/flutter.svg" alt="flutter" align="left" width="25" />
+<img src="images/csharp.png" alt="csharp" align="left" width="25" />
+<img src="images/unity.png" alt="unity" align="left" width="25" />
+<img src="images/java.png" alt="java" align="left" width="25" />
+<img src="images/python.svg" alt="python" align="left" width="25" />
 
 <!--
 **kainsteffen/kainsteffen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
