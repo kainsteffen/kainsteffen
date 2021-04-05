@@ -6,28 +6,31 @@ Check out my live projects [here](https://khanhsteffen.de/#/)
 
 ### Connect with me
 
-[<img src="images/homepage.svg" alt="linkedin" width="35" style="margin-right:10px"/>](https://khanhsteffen.de/#/)
-[<img src="images/mail.svg" alt="linkedin" width="35" style="margin-right:10px"/>](mailto:khanhsteffen@gmail.com)
-[<img src="images/linkedin.svg" alt="linkedin" width="35" style="margin-right:10px"/>](https://de.linkedin.com/in/khanh-steffen)
+[<img src="images/homepage.svg"  alt="homepage" align="left" width="35" style="margin-right:15px"/>](https://khanhsteffen.de/#/)
+[<img src="images/mail.svg" alt="mail" align="left" width="35" style="margin-right:15px"/>](mailto:khanhsteffen@gmail.com)
+[<img src="images/linkedin.svg" alt="linkedin" align="left" width="35" style="margin-right:15px"/>](https://de.linkedin.com/in/khanh-steffen)
+
+<br />
+<br />
 
 ### Things I work with
-<p float="left">
-<img src="images/typescript.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/javascript.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/html.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/css.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/sass.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/react.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/nodejs.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/graphql.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/mongodb.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/dart.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/flutter.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/csharp.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/unity.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/java.png" alt="linkedin" width="35" style="margin-right:10px"/>
-<img src="images/python.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-</p>
+
+<img src="images/typescript.svg" alt="typescript" align="left" width="35" style="margin-right:10px"/>
+<img src="images/javascript.png" alt="javascript" align="left" width="35" style="margin-right:10px"/>
+<img src="images/html.svg" alt="html" align="left" width="35" style="margin-right:10px"/>
+<img src="images/css.png" alt="css" align="left" width="35" style="margin-right:10px"/>
+<img src="images/sass.png" alt="sass" align="left" width="35" style="margin-right:10px"/>
+<img src="images/react.svg" alt="react" align="left" width="35" style="margin-right:10px"/>
+<img src="images/nodejs.svg" alt="nodejs" align="left" width="35" style="margin-right:10px"/>
+<img src="images/graphql.svg" alt="graphql" align="left" width="35" style="margin-right:10px"/>
+<img src="images/mongodb.png" alt="mongodb" align="left" width="35" style="margin-right:10px"/>
+<img src="images/dart.png" alt="dart" align="left" width="35" style="margin-right:10px"/>
+<img src="images/flutter.svg" alt="flutter" align="left" width="35" style="margin-right:10px"/>
+<img src="images/csharp.png" alt="csharp" align="left" width="35" style="margin-right:10px"/>
+<img src="images/unity.png" alt="unity" align="left" width="35" style="margin-right:10px"/>
+<img src="images/java.png" alt="java" align="left" width="35" style="margin-right:10px"/>
+<img src="images/python.svg" alt="python" align="left" width="35" style="margin-right:10px"/>
+
 <!--
 **kainsteffen/kainsteffen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
