@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about mobile, web and game development
 
 Check out my live projects [here](https://khanhsteffen.de/#/)
 
-### Connect with me
+## Connect with me
 
 [<img src="images/homepage.svg"  alt="homepage" align="left" width="25" />](https://khanhsteffen.de/#/)
 [<img src="images/mail.svg" alt="mail" align="left" width="25" />](mailto:khanhsteffen@gmail.com)
@@ -13,7 +13,7 @@ Check out my live projects [here](https://khanhsteffen.de/#/)
 <br />
 <br />
 
-### Things I work with
+## Things I work with
 
 <img src="images/typescript.svg" alt="typescript" align="left" width="25" />
 <img src="images/javascript.png" alt="javascript" align="left" width="25" />
