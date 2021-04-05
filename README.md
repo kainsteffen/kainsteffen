@@ -6,9 +6,9 @@ Check out my live projects [here](https://khanhsteffen.de/#/)
 
 ### Connect with me
 
-[<img src="images/homepage.svg"  alt="homepage" align="left" width="35" style="margin-right:15px"/>](https://khanhsteffen.de/#/)
-[<img src="images/mail.svg" alt="mail" align="left" width="35" style="margin-right:15px"/>](mailto:khanhsteffen@gmail.com)
-[<img src="images/linkedin.svg" alt="linkedin" align="left" width="35" style="margin-right:15px"/>](https://de.linkedin.com/in/khanh-steffen)
+[<img src="images/homepage.svg"  alt="homepage" align="left" width="25" />](https://khanhsteffen.de/#/)
+[<img src="images/mail.svg" alt="mail" align="left" width="25" />](mailto:khanhsteffen@gmail.com)
+[<img src="images/linkedin.svg" alt="linkedin" align="left" width="25" />](https://de.linkedin.com/in/khanh-steffen)
 
 <br />
 <br />
