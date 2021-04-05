@@ -4,18 +4,15 @@ I'm a software engineer who is passionate about mobile, web and game development
 
 Check out my live projects [here](https://khanhsteffen.de/#/)
 
-</br>
-
-## Connect with me
+### Connect with me
 
 [<img src="images/homepage.svg" alt="linkedin" width="35" style="margin-right:10px"/>](https://khanhsteffen.de/#/)
 [<img src="images/mail.svg" alt="linkedin" width="35" style="margin-right:10px"/>](mailto:khanhsteffen@gmail.com)
 [<img src="images/linkedin.svg" alt="linkedin" width="35" style="margin-right:10px"/>](https://de.linkedin.com/in/khanh-steffen)
 
-</br>
+### Things I work with
 
-## Things I work with
-
+<p float="left">
 <img src="images/typescript.svg" alt="linkedin" width="35" style="margin-right:10px"/>
 <img src="images/javascript.png" alt="linkedin" width="35" style="margin-right:10px"/>
 <img src="images/html.svg" alt="linkedin" width="35" style="margin-right:10px"/>
@@ -31,12 +28,9 @@ Check out my live projects [here](https://khanhsteffen.de/#/)
 <img src="images/unity.png" alt="linkedin" width="35" style="margin-right:10px"/>
 <img src="images/java.png" alt="linkedin" width="35" style="margin-right:10px"/>
 <img src="images/python.svg" alt="linkedin" width="35" style="margin-right:10px"/>
-
-</br>
-</br>
+</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kainsteffen&count_private=true&show_icons=true&theme=dark" style="margin-right:20px" />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainsteffen&theme=dark&layout=compact" />
 
 <!--
